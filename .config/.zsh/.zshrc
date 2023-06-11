@@ -16,3 +16,6 @@ PS1='%F{red}[%f%F{magenta}%n%f%F{green}@%f%F{magenta}%m%f  %~%F{red}]%f$ '
 # aliases
 alias mutt="neomutt"
 alias p="sudo pacman"
+
+source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
+source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
